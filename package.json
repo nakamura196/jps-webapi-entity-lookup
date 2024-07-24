@@ -2,6 +2,7 @@
   "name": "jps-webapi-entity-lookup",
   "version": "0.0.0-development",
   "description": "Find entities (people, places, organizations) in jps webapi.",
+  "type": "module",
   "keywords": [
     "jps",
     "entity",

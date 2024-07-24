@@ -64,3 +64,5 @@ build
 .idea
 
 .DS_Store
+
+tmp.json
